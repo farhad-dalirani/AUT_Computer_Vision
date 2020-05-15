@@ -12,4 +12,4 @@ Year: 2017-2018, Fall Semester
 - Assignment 5: LBF, FREAK, SURF
 - Assignment 6: Background Detection methods
 - Assignment 7: Optical Flow and Depth, Stereo
-- Project: Visual odometry with feature matching and tracking
+- Project: Visual Odometry with feature matching and tracking
