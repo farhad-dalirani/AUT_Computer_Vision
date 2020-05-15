@@ -3,7 +3,7 @@ This Repository contains my answers to Computer Vision (CV) assignments of Amirk
 
 Professor: [Dr.Reza Safabakhsh](https://old.aut.ac.ir/official/main.asp?uid=safa)
 
-Year: 2017-2018, Fall Semester
+Year: 2018-2019, Fall Semester
 
 - Assignment 1: Basic Operations of OpenCV and Preprocessing
 - Assignment 2:Edge, Hough Transform, Contours
